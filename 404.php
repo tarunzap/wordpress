@@ -1,4 +1,4 @@
-<?php
+<?php phptarun
 /**
  * The template for displaying 404 pages (not found).
  *
