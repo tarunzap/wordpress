@@ -1,4 +1,4 @@
-<?php
+<?php checed fro tarun
 /**
  * The template for displaying archive pages.
  *
