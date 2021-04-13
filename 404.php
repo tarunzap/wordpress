@@ -1,4 +1,4 @@
-<?php php
+<?php hello to all
 /**
  * The template for displaying 404 pages (not found).
  *
